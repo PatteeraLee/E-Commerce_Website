@@ -12,6 +12,8 @@
     - Add products to cart.
     - Increase/decrease products on cart.
     - Check out system.
+
+https://user-images.githubusercontent.com/82709004/122045756-51a8a880-ce08-11eb-94a6-73e01b632bd4.mp4
     
 2. Admin section
     - Create, show, update and delete product.
@@ -21,11 +23,6 @@
     - Show users.
 
 https://user-images.githubusercontent.com/82709004/122018276-e7ced580-cdec-11eb-8e49-6a3b2e159037.mp4
-
-
-`https://user-images.githubusercontent.com/82709004/122018732-557b0180-cded-11eb-94fe-235743167843.mp4`
-
-
 
 ## Installation Guide
 
