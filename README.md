@@ -20,6 +20,8 @@
     - Relational database definition.
     - Show users.
 
+https://user-images.githubusercontent.com/82709004/122018276-e7ced580-cdec-11eb-8e49-6a3b2e159037.mp4
+
 ## Installation Guide
 
 1. clone this repo to your local machine
