@@ -13,7 +13,7 @@
     - Increase/decrease products on cart.
     - Check out system.
 
-https://user-images.githubusercontent.com/82709004/122046082-ab10d780-ce08-11eb-8f60-22e00352b76f.mp4
+https://user-images.githubusercontent.com/82709004/122046577-47d37500-ce09-11eb-818e-979082612765.mp4
     
 2. Admin section
     - Create, show, update and delete product.
