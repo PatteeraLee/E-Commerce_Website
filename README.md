@@ -6,15 +6,15 @@
 ## Features
 
 1. Customer section
-    - Register/login system.
+    - Register/login account.
     - Categories, search box and price filtering for search for products.
     - Product detail.
     - Add products to cart.
     - Increase/decrease products on cart.
-    - Check out system.
+    - Check out.
 
-https://user-images.githubusercontent.com/82709004/122046577-47d37500-ce09-11eb-818e-979082612765.mp4
-    
+https://user-images.githubusercontent.com/82709004/122047940-e7ddce00-ce0a-11eb-8808-3a58cf937a0c.mp4
+ 
 2. Admin section
     - Create, show, update and delete product.
     - Create, show, update and delete product category.
