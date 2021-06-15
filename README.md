@@ -13,7 +13,7 @@
     - Increase/decrease products on cart.
     - Check out system.
 
-https://user-images.githubusercontent.com/82709004/122045756-51a8a880-ce08-11eb-94a6-73e01b632bd4.mp4
+https://user-images.githubusercontent.com/82709004/122046082-ab10d780-ce08-11eb-8f60-22e00352b76f.mp4
     
 2. Admin section
     - Create, show, update and delete product.
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/82709004/122045756-51a8a880-ce08-11eb-
     - Relational database definition.
     - Show users.
 
-https://user-images.githubusercontent.com/82709004/122018276-e7ced580-cdec-11eb-8e49-6a3b2e159037.mp4
+https://user-images.githubusercontent.com/82709004/122046053-a2200600-ce08-11eb-8308-c3f47ad45ee3.mp4
 
 ## Installation Guide
 
